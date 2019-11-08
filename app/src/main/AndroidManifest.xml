@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PacienteActivity" android:screenOrientation="portrait"
-            android:label="Formulário Paciente"></activity>
-
-
         <activity android:name=".VoluntarioActivity" android:screenOrientation="portrait"
-            android:label="Formulário Voluntário"/>
+            android:label="Formulário Voluntário"></activity>
+        <activity
+            android:name=".PacienteActivity"
+            android:label="Formulário Paciente"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">

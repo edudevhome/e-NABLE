@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">eNABLE</string>
+    <string name="title_activity_pacientee">PacienteeActivity</string>
+    <string name="title_activity_paciente1">Paciente1Activity</string>
 </resources>
